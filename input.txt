@@ -1,0 +1,58 @@
+import file.h
+Main:
+/> single line comment
+
+/* multi
+line
+comment
+*/
+
+decimal varriable1 = sin(90);
+decimal p = 2 ** 3;
+
+number x = 1, y = 0;
+number z = x ^^ y;
+
+number a = 11, b = 20, c = 2;
+Output(a, b, c);
+decimal d = 1.10, e = d;
+string s = "text";
+Output(s);
+
+/> input(a, b);
+/> input(d);
+
+if(a > b) {  
+    number es = 10;
+}
+Otherwise if(a < b) {
+    number eq = 69;
+}
+Otherwise {
+    number ef = 20;
+}
+
+number aa = b % 3;
+Output(aa);
+
+number bb = a <= b;
+Output(bb);
+
+Repeat(i in [1, 10, 2]) {
+    Output(a);
+}
+
+As long as(a++ <= b) {
+    Output(a);
+}
+As long as(b-- > 15) {
+    Output(a);
+}
+As long as(a++ !!! 15) {
+    Output(a);
+}
+
+def func(number arg) -> number {
+    ;
+}
+call func(a);
