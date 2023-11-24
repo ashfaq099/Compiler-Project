@@ -1,0 +1,87 @@
+SINGLELINE COMMENT DETECTED! The Comment is: 
+single line comment
+MULTILINE COMMENT DETECTED! The Comment is: 
+multi line comment 
+Variable name is: varriable1
+Variable value is: 0.893997
+Variable name is: p
+Variable value is: 8.000000
+Variable name is: x
+Variable value is: 1
+Variable name is: y
+Variable value is: 0
+Variable name is: z
+Variable value is: 1
+Variable name is: a
+Variable value is: 11
+Variable name is: b
+Variable value is: 20
+Variable name is: c
+Variable value is: 2
+Value of a is: 11
+Value of b is: 20
+Value of c is: 2
+Variable name is: d
+Variable value is: 1.100000
+Variable name is: e
+Variable value is: 1.100000
+Variable name is: s
+Variable value is: text
+Value of s is: text
+SINGLELINE COMMENT DETECTED! The Comment is: 
+input(a, b);
+SINGLELINE COMMENT DETECTED! The Comment is: 
+input(d);
+Variable name is: es
+Variable value is: 10
+IF BLOCK
+Condition Didn't match in IF Block.
+Variable name is: eq
+Variable value is: 69
+Condition Matched in Otherwise if Block.
+Variable name is: ef
+Variable value is: 20
+Condition Already Matched.
+Variable name is: aa
+Variable value is: 2
+Value of aa is: 2
+Variable name is: bb
+Variable value is: 1
+Value of bb is: 1
+Value of a is: 11
+Repeat Loop Block
+Repeat Loop Iteration: 1
+Repeat Loop Iteration: 2
+Repeat Loop Iteration: 3
+Repeat Loop Iteration: 4
+Repeat Loop Iteration: 5
+Value of a is: 11
+As long as BLOCK
+As Long As Loop Iteration: 1
+As Long As Loop Iteration: 2
+As Long As Loop Iteration: 3
+As Long As Loop Iteration: 4
+As Long As Loop Iteration: 5
+As Long As Loop Iteration: 6
+As Long As Loop Iteration: 7
+As Long As Loop Iteration: 8
+As Long As Loop Iteration: 9
+As Long As Loop Iteration: 10
+Value of a is: 11
+As long as BLOCK
+As Long As Loop Iteration: 1
+As Long As Loop Iteration: 2
+As Long As Loop Iteration: 3
+As Long As Loop Iteration: 4
+As Long As Loop Iteration: 5
+Value of a is: 11
+As long as BLOCK
+As Long As Loop Iteration: 1
+As Long As Loop Iteration: 2
+As Long As Loop Iteration: 3
+As Long As Loop Iteration: 4
+Declaring Function
+Variable name is: arg
+Variable value is: 0
+Function Successfully Called.
+COMPILATION SUCCESSFUL!
